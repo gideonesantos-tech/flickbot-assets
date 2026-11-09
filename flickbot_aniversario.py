@@ -55,7 +55,7 @@ MEMBROS = [
     {"nome": "João Vitor Castelo Branco Diniz", "apelido": "Bolinha", "data": "26/07", "foto": ""},
     {"nome": "Leonardo Ferreira", "apelido": "Leleo", "data": "04/08", "foto": ""},
     {"nome": "André Mendes de Almeida Lima", "apelido": "Tijolo", "data": "06/08", "foto": ""},
-    {"nome": "Luíza Lima Lattuf", "apelido": "Luíza", "data": "09/11", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Luiza%20sorrindo.png"},
+    {"nome": "Luíza Lima Lattuf", "apelido": "Luíza", "data": "03/09", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Luiza%20sorrindo.png"},
     {"nome": "Arthur Ryu Miyashiro", "apelido": "Hamadinha", "data": "05/09", "foto": ""},
     # Página 3
     {"nome": "Lucas Rodrigues Hirashima", "apelido": "Hirashima", "data": "02/10", "foto": ""},
