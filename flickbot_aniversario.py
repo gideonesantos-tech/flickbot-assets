@@ -16,7 +16,7 @@ BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/
 # ==============================================================================
 MEMBROS = [
     # Página 1
-    {"nome": "Felipe Petrillo Fici Zackiewicz", "apelido": "Fici", "data": "09/11", "foto": ""},
+    {"nome": "Felipe Petrillo Fici Zackiewicz", "apelido": "Fici", "data": "29/10", "foto": ""},
     {"nome": "Cairê Belo da Silva", "apelido": "Cairê", "data": "06/12", "foto": ""},
     {"nome": "Igor Dela Costa de Oliveira", "apelido": "Igor", "data": "27/12", "foto": ""},
     {"nome": "Guilherme Souza", "apelido": "Mogli", "data": "02/02", "foto": ""},
