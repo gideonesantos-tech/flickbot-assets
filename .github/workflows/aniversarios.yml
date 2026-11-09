@@ -1,0 +1,27 @@
+name: FlickBot Aniversarios 06h30
+
+on:
+  schedule:
+    # 06:30 Horário de Brasília (UTC-3) corresponde a 09:30 UTC
+    - cron: '30 9 * * *'
+  workflow_dispatch: # Permite testar manualmente clicando em "Run workflow"
+
+jobs:
+  avisar_teams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Executar FlickBot
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+        run: python flickbot_aniversario.py
