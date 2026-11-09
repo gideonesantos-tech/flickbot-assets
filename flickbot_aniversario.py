@@ -100,7 +100,7 @@ INTRODUCOES_DIA = [
 
 MENSAGENS_SUSPENSE_SINGULAR = [
     "Quem será que está ficando mais velho(a) hoje e já pode pagar uma pizza pra oficina inteira? 👀",
-    "Preparando os arquivos confidenciais do Gerador de Atas... Achamos o(a) aniversariante do dia! 🥁",
+    "Preparando os arquivos confidenciais dos Documentos de DevOps... Achamos o(a) aniversariante do dia! 🥁",
     "Diz a lenda que quem faz aniversário hoje ganha isenção de limpar a oficina (mentira, não ganha não, mas ganha parabéns)! 🎉"
 ]
 
