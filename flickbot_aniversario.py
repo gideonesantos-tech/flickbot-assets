@@ -264,9 +264,6 @@ def enviar_card_aniversariante(membro):
                     "items": [
                         {
                             "type": "FactSet",
-                            "facts": [
-                                {"title": "Apelido na Oficina:", "value": membro["apelido"]},
-                            ]
                         }
                     ]
                 }
