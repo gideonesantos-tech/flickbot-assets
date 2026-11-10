@@ -59,7 +59,7 @@ MEMBROS = [
     {"nome": "Arthur Ryu Miyashiro", "apelido": "Hamadinha", "data": "05/09", "foto": ""},
     # Página 3
     {"nome": "Lucas Rodrigues Hirashima", "apelido": "Hirashima", "data": "02/10", "foto": ""},
-    {"nome": "Alcenor Guimarães Barbosa", "apelido": "Alcenoia", "data": "16/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/refs/heads/main/fotos/Alcenor%20sorrindo.png"},
+    {"nome": "Alcenor Guimarães Barbosa", "apelido": "Alcenoia", "data": "10/11", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/refs/heads/main/fotos/Alcenor%20sorrindo.png"},
     {"nome": "Pedro Viveiros Lopes", "apelido": "Chuchu", "data": "22/10", "foto": ""},
     {"nome": "Beatriz Aimi Ramos Umetsu", "apelido": "Babubia", "data": "16/12", "foto": ""},
     {"nome": "Rafael Levi Siqueira de Andrade", "apelido": "Levi", "data": "31/12", "foto": ""},
