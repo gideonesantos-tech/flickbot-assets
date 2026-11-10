@@ -16,7 +16,7 @@ BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/
 # ==============================================================================
 MEMBROS = [
     # Página 1
-    {"nome": "Felipe Petrillo Fici Zackiewicz", "apelido": "Fici", "data": "10/11", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/fici%20sorrindo.jpg?raw=true"},
+    {"nome": "Felipe Petrillo Fici Zackiewicz", "apelido": "Fici", "data": "29/10", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/fici%20sorrindo.jpg?raw=true"},
     {"nome": "Cairê Belo da Silva", "apelido": "Cairê", "data": "06/12", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Caire%20sorrindo.png?raw=true"},
     {"nome": "Igor Dela Costa de Oliveira", "apelido": "Igor", "data": "27/12", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/igor%20sorrindo.png?raw=true"},
     {"nome": "Guilherme Souza", "apelido": "Mogli", "data": "02/02", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Guilherme%20sorrindo.png?raw=true"},
@@ -265,9 +265,7 @@ def enviar_card_aniversariante(membro):
                         {
                             "type": "FactSet",
                             "facts": [
-                                {"title": "Nome Completo:", "value": membro["nome"]},
                                 {"title": "Apelido na Oficina:", "value": membro["apelido"]},
-                                {"title": "Data:", "value": membro["data"]}
                             ]
                         }
                     ]
