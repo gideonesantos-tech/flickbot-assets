@@ -299,6 +299,17 @@ def enviar_card_aniversariante(membro):
             "text": f"Mandem os parabéns aqui no chat para o(a) **{membro['apelido']}**! 🐜🏎️⚡",
             "wrap": True,
             "weight": "Bolder"
+        },
+        # ==============================================================================
+        # NOVA ADIÇÃO: Assinatura do Flickboss com LinkedIn
+        # ==============================================================================
+        {
+            "type": "TextBlock",
+            "text": "Um dos meus principais criadores, [Flickboss](https://www.linkedin.com/in/gideone-carvalho-dos-santos-68479025b/) te deseja parabéns e felicidades sempre! 🚀",
+            "wrap": True,
+            "size": "Small",
+            "isSubtle": True,
+            "spacing": "Medium"
         }
     ]
     enviar_card_teams(blocos)
