@@ -84,7 +84,7 @@ MEMBROS = [
     {"nome": "Matheus Andrade Theophilo", "apelido": "Vamp", "data": "10/01", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Matheus%20sorrindo.png?raw=true"},
     {"nome": "Isabely Ruppel", "apelido": "Ruppel", "data": "14/03", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Isabely%20Ruppel%20felizinha.png?raw=true"},
     {"nome": "Luis Felipe Azzalin Ukon", "apelido": "Zara", "data": "24/03", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Luis%20Ukon%20(Zara)%20sorrindo.png?raw=true"},
-    {"nome": "Rafael Francisco Coutinho Neto", "apelido": "Rafael", "data": "06/06", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Rafael%20Coutinho%20sorrindo.png?raw=true"},
+    {"nome": "Rafael Francisco Coutinho Neto", "apelido": "Rafael", "data": "10/11", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Rafael%20Coutinho%20sorrindo.png?raw=true"},
 ]
 
 # ==============================================================================
