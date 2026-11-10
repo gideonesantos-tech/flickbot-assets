@@ -12,7 +12,7 @@ WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL", "https://defaultb4741a826b6e43a5ad6
 BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/fotos/"
 
 # ==============================================================================
-# BANCO DE DADOS DOS 66 MEMBROS (EXTRAÍDO DO PDF DA EQUIPE)
+# BANCO DE DADOS DOS 66 MEMBROS
 # ==============================================================================
 MEMBROS = [
     # Página 1
@@ -252,8 +252,9 @@ def enviar_card_aniversariante(membro):
                         {
                             "type": "Image",
                             "url": foto_url,
-                            "size": "Large",
-                            "style": "Person"
+                            "size": "ExtraLarge",
+                            "style": "Person",
+                            "horizontalAlignment": "Center"
                         }
                     ]
                 },
