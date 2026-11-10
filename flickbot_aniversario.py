@@ -18,8 +18,8 @@ MEMBROS = [
     # Página 1
     {"nome": "Felipe Petrillo Fici Zackiewicz", "apelido": "Fici", "data": "29/10", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/fici%20sorrindo.jpg?raw=true"},
     {"nome": "Cairê Belo da Silva", "apelido": "Cairê", "data": "06/12", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Caire%20sorrindo.png?raw=true"},
-    {"nome": "Igor Dela Costa de Oliveira", "apelido": "Igor", "data": "10/11", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/igor%20sorrindo.png?raw=true"},
-    {"nome": "Guilherme Souza", "apelido": "Mogli", "data": "10/11", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Guilherme%20sorrindo.png?raw=true"},
+    {"nome": "Igor Dela Costa de Oliveira", "apelido": "Igor", "data": "27/12", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/igor%20sorrindo.png?raw=true"},
+    {"nome": "Guilherme Souza", "apelido": "Mogli", "data": "02/02", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Guilherme%20sorrindo.png?raw=true"},
     {"nome": "Pedro Jaluul Cardo", "apelido": "Jalulu", "data": "01/05", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/jaluul%20sorrindo.png?raw=true"},
     {"nome": "Pedro Campanha Neto", "apelido": "Pedro Campanha", "data": "23/12", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Pedro%20Campanha%20sorrindo.png?raw=true"},
     {"nome": "Paulo Rodrigues de Oliveira Nilo", "apelido": "Paulo Rodrigues", "data": "03/05", "foto": "https://github.com/gideonesantos-tech/flickbot-assets/blob/main/fotos/Paulo%20sorrindo.png?raw=true"},
