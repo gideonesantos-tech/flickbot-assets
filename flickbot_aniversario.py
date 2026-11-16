@@ -371,3 +371,5 @@ def executar_flickbot():
 if __name__ == "__main__":
     # Para rodar o teste com todas as 66 fotos, acione a função de teste em vez da principal
     testar_todas_as_fotos()
+    # Para rodar normal só 1 pessoa ou só quem esta fazendo aniversário (modo normal):
+    #executar_flickbot()
