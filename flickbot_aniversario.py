@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 # Cole sua URL gerada no Workflows do Teams aqui (ou use variável de ambiente)
-WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL", "https://defaultb4741a826b6e43a5ad6e1044511aae.d6.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/24/workflows/03d2947a340f4dce8f3666ded2c61b79/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=n5mToMsf3O3Zf_Vr-Q6qEg5Zz4z4zqmQodcUuQR5SHA")
+WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL", "https://defaultb4741a826b6e43a5ad6e1044511aae.d6.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/16/workflows/ce8b71d071c148859cb242a2de6f57cf/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=OCbPvi2ZaCQK1geGEjiB7csOWgqKw9OkAlXGNSFKZRU")
 
 # URL base onde ficam as fotos profissionais da equipe (ajuste para o domínio/repositório de vocês)
 BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/fotos/"
