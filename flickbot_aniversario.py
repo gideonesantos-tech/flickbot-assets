@@ -15,7 +15,7 @@ BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/
 # BANCO DE DADOS DOS 66 MEMBROS
 # ==============================================================================
 MEMBROS = [
-    {"nome": "Alcenor Guimarães Barbosa de Sousa", "apelido": "Alcenoia", "data": "16/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Alcenor%20sorrindo.png"},
+    {"nome": "Alcenor Guimarães Barbosa de Sousa", "apelido": "Alcenoia", "data": "16/11", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Alcenor%20sorrindo.png"},
     {"nome": "Ana Beatriz Alves Chammas", "apelido": "Chammas", "data": "13/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Ana%20Chammas%20sorrindo.png"},
     {"nome": "Ana Luísa Marzinotti Francisco", "apelido": "Ana Chico", "data": "21/05", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/ana%20chico%20sorrindo.png"},
     {"nome": "André Mendes de Almeida Lima", "apelido": "Tijolo", "data": "06/08", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Andr%C3%A9%20Mendes%20%28tijolo%29%20feliz.png"},
