@@ -27,7 +27,7 @@ MEMBROS = [
     {"nome": "Augusto Maciel Guedes", "apelido": "Augusto", "data": "18/07", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Augusto%20Guedes%20sorrindo.png"},
     {"nome": "Beatriz Aimi Ramos Umetsu", "apelido": "Babubia", "data": "16/12", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/bia%20sorrindo.png"},
     {"nome": "Bruno Soares Alves", "apelido": "Cap", "data": "30/01", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/bruno%20sorrindo.png"},
-    {"nome": "Cairê Belo da Silva", "apelido": "Cairê", "data": "06/12", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/caire_sorrindo.png"},
+    {"nome": "Cairê Belo da Silva", "apelido": "Cairê", "data": "16/11", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/caire_sorrindo.png"},
     {"nome": "Daniel Abraão de Brito Nogueira", "apelido": "Daniel", "data": "23/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Daniel%20sorrindo.png"},
     {"nome": "Davi Roldão Siqueira", "apelido": "Davi", "data": "05/06", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Davi%20sorrindo.png"},
     {"nome": "Eduardo Kobata Marto", "apelido": "Kobata", "data": "18/12", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Eduardo%20Kobata%20sorrindo.png"},
