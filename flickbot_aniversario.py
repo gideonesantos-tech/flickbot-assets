@@ -248,10 +248,6 @@ def enviar_card_aniversariante(membro):
             "horizontalAlignment": "Center"
         },
         {
-            "type": "FactSet",
-            "spacing": "Medium"
-        },
-        {
             "type": "Container",
             "style": "emphasis",
             "bleed": True,
@@ -287,7 +283,6 @@ def enviar_card_aniversariante(membro):
         }
     ]
     enviar_card_teams(blocos)
-
 
 # ==============================================================================
 # FUNÇÃO DE TESTE DE CARGA (DISPARA TODOS OS 66 CARDS)
