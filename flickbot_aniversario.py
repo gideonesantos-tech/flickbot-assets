@@ -269,7 +269,7 @@ def enviar_card_aniversariante(membro):
         },
         {
             "type": "TextBlock",
-            "text": f"Mandem os parabéns aqui no chat para o(a) **{membro['apelido']}**! 🐜🏎️⚡",
+            "text": f"Mandem os parabéns aqui no chat para o(a) **{membro['apelido']}**! 🐜⚡🧡🏎️",
             "wrap": True,
             "weight": "Bolder"
         },
