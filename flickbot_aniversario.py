@@ -15,7 +15,7 @@ BASE_FOTO_URL = "https://raw.githubusercontent.com/Unicamp-E-Racing/assets/main/
 # BANCO DE DADOS DOS 66 MEMBROS
 # ==============================================================================
 MEMBROS = [
-    {"nome": "Alcenor Guimarães Barbosa de Sousa", "apelido": "Alcenoia", "data": "16/11", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Alcenor%20sorrindo.png"},
+    {"nome": "Alcenor Guimarães Barbosa de Sousa", "apelido": "Alcenoia", "data": "16/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Alcenor%20sorrindo.png"},
     {"nome": "Ana Beatriz Alves Chammas", "apelido": "Chammas", "data": "13/10", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Ana%20Chammas%20sorrindo.png"},
     {"nome": "Ana Luísa Marzinotti Francisco", "apelido": "Ana Chico", "data": "21/05", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/ana%20chico%20sorrindo.png"},
     {"nome": "André Mendes de Almeida Lima", "apelido": "Tijolo", "data": "06/08", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/Andr%C3%A9%20Mendes%20%28tijolo%29%20feliz.png"},
@@ -83,101 +83,102 @@ MEMBROS = [
     {"nome": "Wallace Dametto Teixeira", "apelido": "Wallace", "data": "01/06", "foto": "https://raw.githubusercontent.com/gideonesantos-tech/flickbot-assets/main/fotos/wallace%20sorrindo.png"},
 ]
 
+
 # ==============================================================================
 # FRASES E INTRODUÇÕES AUTÊNTICAS DO FLICKBOT
 # ==============================================================================
 INTRODUCOES_DIA = [
-    "🤖 Flickbot disse: 🐜 **Bom dia, formiguinhas!** O dia de hoje começa com o aniversário de uma pessoa muito especial em nossa equipe!",
-    "🤖 Flickbot disse: 🐜 **Acorda, formigueiro!** São 06h30 da manhã, a Jetson ainda não caiu e hoje o dia começa em festa na oficina!",
-    "🤖 Flickbot disse: 🏎️ **Bom dia, formiguinhas da E-Racing!** Larguem as ferramentas por um segundo porque o calendário do FlickBot apitou!",
-    "🤖 Flickbot disse: ⚡ **Bora acordar, formiguinhas!** Mais um dia de correria no projeto, mas hoje temos um motivo extra para comemorar!",
-    "🤖 Flickbot disse: 🔧 **Bom dia, formigueiro!** Nem só de solda duvidosa e ata de reunião vive esta equipe. Hoje é dia de festa!",
-    "🤖 Flickbot disse: 🐜 **Bom dia!** O próximo que falar que fazer aniversário na oficina é plug-and-play vai levar um tapa! Hoje o dia é de festa!",
-    "🤖 Flickbot disse: 🍉 **Acorda, formigueiro!** A gente tem quase a mesma porcentagem de água que uma melancia, a diferença é que hoje, além de ansiedade, a gente tem aniversariante!",
-    "🤖 Flickbot disse: 🔥 **Bom dia, E-Racing!** Eu surto mas logo me volto, principalmente porque hoje o formigueiro tá em festa! Taca no gepeto os parabéns e vamo que vamo!",
-    "🤖 Flickbot disse: 🍕 **Levanta, rapaziada!** Tá tudo dando errado no projeto mas tudo bem, porque hoje tem aniversário e, com sorte, tem pizza!",
-    "🤖 Flickbot disse: 🧯 **Bora acordar!** Controle não tem como pegar fogo, mas a velinha do bolo do aniversariante de hoje com certeza vai!",
-    "🤖 Flickbot disse: 📦 **Bom dia, formiguinhas!** Passar na E-Racing é como atacado: você entra em 1 divisão, ganha 2, e ainda tem que dar parabéns às 6h30 da manhã!",
-    "🤖 Flickbot disse: 🛠️ **Acorda, equipe!** Confesso que aquela solda de ontem ficou uma merda, mas o dia de hoje tá 100% aprovado porque tem gente ficando mais velha!",
-    "🤖 Flickbot disse: 💻 **Bom dia!** Codando com a mente, debugando com o coração e pausando tudo agora pra comemorar o aniversário do dia!",
-    "🤖 Flickbot disse: 😭 **Levanta, formigueiro!** Quem dormiu igual um bebê, cagado e chorando, já pode acordar pra comer bolachinha porque hoje é dia de festa!",
-    "🤖 Flickbot disse: 🥖 **Bom dia!** Eu vou ter que lutar pelo pão mesmo, ou o aniversariante de hoje vai trazer um café da manhã pra rapaziada da oficina?",
-    "🤖 Flickbot disse: 🐦 **Acorda, E-Racing!** Fazer a reunião de suspa com os pássaros às 6 da manhã é muito fofo, mas dar parabéns pro aniversariante de hoje é obrigação!",
-    "🤖 Flickbot disse: 💼 **Bom dia!** Se a divisão de business tudo produz, a ela tudo pertence... inclusive os parabéns de hoje! Parem as máquinas e bora celebrar!",
-    "🤖 Flickbot disse: 🧠 **Bora pro abate!** Nossa, você precisa estudar pra prob? HAHAHAHA! Pelo menos de dar os parabéns pro aniversariante de hoje você não escapa!",
-    "🤖 Flickbot disse: 🧱 **Bom dia, formigueiro!** Eu prefiro trabalhar com uma pedra que não se quebra, mas hoje eu abro exceção pra comemorar o aniversário da nossa argila favorita!",
-    "🤖 Flickbot disse: ✨ **Atenção!** Deixa eu mandar um recado pra divisão: o aniversariante de hoje é o PROBLEMA da divisão, mas hoje ele tá ILUMINADO! Parabéns!"
+    "🤖 Flickbot disse: 🐜 **Bom dia, formiguinhas!** O dia de hoje começa com o aniversário de uma pessoa muito especial em nossa equipe!",
+    "🤖 Flickbot disse: 🐜 **Acorda, formigueiro!** São 06h30 da manhã, a Jetson ainda não caiu e hoje o dia começa em festa na oficina!",
+    "🤖 Flickbot disse: 🏎️ **Bom dia, formiguinhas da E-Racing!** Larguem as ferramentas por um segundo porque o calendário do FlickBot apitou!",
+    "🤖 Flickbot disse: ⚡ **Bora acordar, formiguinhas!** Mais um dia de correria no projeto, mas hoje temos um motivo extra para comemorar!",
+    "🤖 Flickbot disse: 🔧 **Bom dia, formigueiro!** Nem só de solda duvidosa e ata de reunião vive esta equipe. Hoje é dia de festa!",
+    "🤖 Flickbot disse: 🐜 **Bom dia!** O próximo que falar que fazer aniversário na oficina é plug-and-play vai levar um tapa! Hoje o dia é de festa!",
+    "🤖 Flickbot disse: 🍉 **Acorda, formigueiro!** A gente tem quase a mesma porcentagem de água que uma melancia, a diferença é que hoje, além de ansiedade, a gente tem aniversariante!",
+    "🤖 Flickbot disse: 🔥 **Bom dia, E-Racing!** Eu surto mas logo me volto, principalmente porque hoje o formigueiro tá em festa! Taca no gepeto os parabéns e vamo que vamo!",
+    "🤖 Flickbot disse: 🍕 **Levanta, rapaziada!** Tá tudo dando errado no projeto mas tudo bem, porque hoje tem aniversário e, com sorte, tem pizza!",
+    "🤖 Flickbot disse: 🧯 **Bora acordar!** Controle não tem como pegar fogo, mas a velinha do bolo do aniversariante de hoje com certeza vai!",
+    "🤖 Flickbot disse: 📦 **Bom dia, formiguinhas!** Passar na E-Racing é como atacado: você entra em 1 divisão, ganha 2, e ainda tem que dar parabéns às 6h30 da manhã!",
+    "🤖 Flickbot disse: 🛠️ **Acorda, equipe!** Confesso que aquela solda de ontem ficou uma merda, mas o dia de hoje tá 100% aprovado porque tem gente ficando mais velha!",
+    "🤖 Flickbot disse: 💻 **Bom dia!** Codando com a mente, debugando com o coração e pausando tudo agora pra comemorar o aniversário do dia!",
+    "🤖 Flickbot disse: 😭 **Levanta, formigueiro!** Quem dormiu igual um bebê, cagado e chorando, já pode acordar pra comer bolachinha porque hoje é dia de festa!",
+    "🤖 Flickbot disse: 🥖 **Bom dia!** Eu vou ter que lutar pelo pão mesmo, ou o aniversariante de hoje vai trazer um café da manhã pra rapaziada da oficina?",
+    "🤖 Flickbot disse: 🐦 **Acorda, E-Racing!** Fazer a reunião de suspa com os pássaros às 6 da manhã é muito fofo, mas dar parabéns pro aniversariante de hoje é obrigação!",
+    "🤖 Flickbot disse: 💼 **Bom dia!** Se a divisão de business tudo produz, a ela tudo pertence... inclusive os parabéns de hoje! Parem as máquinas e bora celebrar!",
+    "🤖 Flickbot disse: 🧠 **Bora pro abate!** Nossa, você precisa estudar pra prob? HAHAHAHA! Pelo menos de dar os parabéns pro aniversariante de hoje você não escapa!",
+    "🤖 Flickbot disse: 🧱 **Bom dia, formigueiro!** Eu prefiro trabalhar com uma pedra que não se quebra, mas hoje eu abro exceção pra comemorar o aniversário da nossa argila favorita!",
+    "🤖 Flickbot disse: ✨ **Atenção!** Deixa eu mandar um recado pra divisão: o aniversariante de hoje é o PROBLEMA da divisão, mas hoje ele tá ILUMINADO! Parabéns!"
 ]
 
 MENSAGENS_SUSPENSE_SINGULAR = [
-    "🤖 Flickbot disse: Quem será que está ficando mais velho(a) hoje e já pode pagar uma pizza pra oficina inteira? 👀",
-    "🤖 Flickbot disse: Preparando os arquivos confidenciais do Gerador de Atas... Achamos o(a) aniversariante do dia! 🥁",
-    "🤖 Flickbot disse: Diz a lenda que quem faz aniversário hoje ganha isenção de limpar a oficina (mentira, não ganha não, mas ganha parabéns)! 🎉",
-    "🤖 Flickbot disse: Tem gente querendo parabéns e não tá sabendo pedir! Quem será o dono do dia hoje? 👀",
-    "🤖 Flickbot disse: Na minha cabeça faz sentido fazer suspense, mas vamos ter que revelar! Quem tá de aniversário? 🥁",
-    "🤖 Flickbot disse: Procurando no banco de dados quem é que vai fanar hoje porque o plano de estudos deu errado... Achamos o aniversariante! 🕵️‍♂️",
-    "🤖 Flickbot disse: Se fosse pra só falar quem é direto eu contratava um papagaio, mas o FlickBot gosta de suspense! Rufem os tambores... 🦜🥁",
-    "🤖 Flickbot disse: Quem diria que o fabricante estava certo! Hoje a garantia de mais um membro da equipe foi renovada. De quem estamos falando? ⚙️",
-    "🤖 Flickbot disse: Vamo querê! Vamo virar aniversariante! Quem será que tá subindo de nível hoje na E-Racing? 🏎️👀",
-    "🤖 Flickbot disse: Se funciona? Deveria! O sistema do FlickBot apitou que tem alguém envelhecendo no meio do formigueiro... 🚨",
-    "🤖 Flickbot disse: Lendo os arquivos de log de DevOps... ERRRRRRRR! Brincadeira, o script rodou liso e achamos o aniversariante! 💻🥁",
-    "🤖 Flickbot disse: O homem nasce bom, mas o projeto o corrompe. Quem será que tá completando mais um ano de corrupção automotiva hoje? 🏁👀",
-    "🤖 Flickbot disse: Qual a DDP do ar? Não sei, mas a energia hoje tá alta pra revelar quem tá fazendo aniversário! ⚡"
+    "🤖 Flickbot disse: Quem será que está ficando mais velho(a) hoje e já pode pagar uma pizza pra oficina inteira? 👀",
+    "🤖 Flickbot disse: Preparando os arquivos confidenciais do Gerador de Atas... Achamos o(a) aniversariante do dia! 🥁",
+    "🤖 Flickbot disse: Diz a lenda que quem faz aniversário hoje ganha isenção de limpar a oficina (mentira, não ganha não, mas ganha parabéns)! 🎉",
+    "🤖 Flickbot disse: Tem gente querendo parabéns e não tá sabendo pedir! Quem será o dono do dia hoje? 👀",
+    "🤖 Flickbot disse: Na minha cabeça faz sentido fazer suspense, mas vamos ter que revelar! Quem tá de aniversário? 🥁",
+    "🤖 Flickbot disse: Procurando no banco de dados quem é que vai fanar hoje porque o plano de estudos deu errado... Achamos o aniversariante! 🕵️‍♂️",
+    "🤖 Flickbot disse: Se fosse pra só falar quem é direto eu contratava um papagaio, mas o FlickBot gosta de suspense! Rufem os tambores... 🦜🥁",
+    "🤖 Flickbot disse: Quem diria que o fabricante estava certo! Hoje a garantia de mais um membro da equipe foi renovada. De quem estamos falando? ⚙️",
+    "🤖 Flickbot disse: Vamo querê! Vamo virar aniversariante! Quem será que tá subindo de nível hoje na E-Racing? 🏎️👀",
+    "🤖 Flickbot disse: Se funciona? Deveria! O sistema do FlickBot apitou que tem alguém envelhecendo no meio do formigueiro... 🚨",
+    "🤖 Flickbot disse: Lendo os arquivos de log de DevOps... ERRRRRRRR! Brincadeira, o script rodou liso e achamos o aniversariante! 💻🥁",
+    "🤖 Flickbot disse: O homem nasce bom, mas o projeto o corrompe. Quem será que tá completando mais um ano de corrupção automotiva hoje? 🏁👀",
+    "🤖 Flickbot disse: Qual a DDP do ar? Não sei, mas a energia hoje tá alta pra revelar quem tá fazendo aniversário! ⚡"
 ]
 
 MENSAGENS_SUSPENSE_PLURAL = [
-    "🤖 Flickbot disse: E hoje não é aniversário em dose única não! Passar na E-Racing é igual atacado: você olha o calendário de hoje e leva aniversariante em dobro! 👀🎉",
-    "🤖 Flickbot disse: O formigueiro hoje está em festa múltipla! Segura a sequência de aniversariantes do dia! 🥁🔥",
-    "🤖 Flickbot disse: Se um aniversário já dá trabalho, imagina vários! Quem diria que os fabricantes estavam certos e lançaram essa galera toda no mesmo dia? ⚙️👀",
-    "🤖 Flickbot disse: Atenção formigueiro! Hoje a gente não tem só um problema, temos vários aniversariantes ILUMINADOS ao mesmo tempo! 🎉",
-    "🤖 Flickbot disse: Pra quem não sabe nada, metade é o dobro! E hoje os aniversários vieram dobrados (ou até triplicados)! Rufem os tambores... 🥁",
-    "🤖 Flickbot disse: Taca no gepeto que resolve quem é que tá ficando mais velho hoje! Spoiler: é mais de uma pessoa querendo parabéns! 🤖🎂",
-    "🤖 Flickbot disse: Hoje o FlickBot tá em chamas! 🔥 Não é um shotinho de parabéns, é um shotão múltiplo no formigueiro! Vem ver quem são os donos do dia!",
-    "🤖 Flickbot disse: Se funciona em dose dupla? Deveria! O sistema apitou e temos uma sequência de aniversariantes prontos pro abate hoje! 🚨",
-    "🤖 Flickbot disse: A gente não precisa ter tudo, mas os parabéns que tivermos hoje têm que ser os melhores para essa galera toda que faz aniversário junto! 🥳",
-    "🤖 Flickbot disse: Até lá, se tiver que dobrar um main hoop num poste pra dar parabéns pra todo mundo de uma vez, a gente vai dobrar! Segura essa lista! 🏎️"
+    "🤖 Flickbot disse: E hoje não é aniversário em dose única não! Passar na E-Racing é igual atacado: você olha o calendário de hoje e leva aniversariante em dobro! 👀🎉",
+    "🤖 Flickbot disse: O formigueiro hoje está em festa múltipla! Segura a sequência de aniversariantes do dia! 🥁🔥",
+    "🤖 Flickbot disse: Se um aniversário já dá trabalho, imagina vários! Quem diria que os fabricantes estavam certos e lançaram essa galera toda no mesmo dia? ⚙️👀",
+    "🤖 Flickbot disse: Atenção formigueiro! Hoje a gente não tem só um problema, temos vários aniversariantes ILUMINADOS ao mesmo tempo! 🎉",
+    "🤖 Flickbot disse: Pra quem não sabe nada, metade é o dobro! E hoje os aniversários vieram dobrados (ou até triplicados)! Rufem os tambores... 🥁",
+    "🤖 Flickbot disse: Taca no gepeto que resolve quem é que tá ficando mais velho hoje! Spoiler: é mais de uma pessoa querendo parabéns! 🤖🎂",
+    "🤖 Flickbot disse: Hoje o FlickBot tá em chamas! 🔥 Não é um shotinho de parabéns, é um shotão múltiplo no formigueiro! Vem ver quem são os donos do dia!",
+    "🤖 Flickbot disse: Se funciona em dose dupla? Deveria! O sistema apitou e temos uma sequência de aniversariantes prontos pro abate hoje! 🚨",
+    "🤖 Flickbot disse: A gente não precisa ter tudo, mas os parabéns que tivermos hoje têm que ser os melhores para essa galera toda que faz aniversário junto! 🥳",
+    "🤖 Flickbot disse: Até lá, se tiver que dobrar um main hoop num poste pra dar parabéns pra todo mundo de uma vez, a gente vai dobrar! Segura essa lista! 🏎️"
 ]
 
 # Frases próprias do FlickBot inspiradas diretamente nas pérolas da equipe
 FRASES_FLICKBOT_OFICINA = [
-    '"Confesso que essa solda ficou duvidosa, mas o seu aniversário ficou 10/10! Parabéns, {apelido}!" — FlickBot, 2026',
-    '"Não sou o Lucas, mas estou no meio do formigueiro só pra te dar parabéns, {apelido}!" — FlickBot',
-    '"A gente tem quase a mesma porcentagem de água que uma melancia. O que muda é que hoje o(a) {apelido} tem bolo e ansiedade!" — FlickBot',
-    '"Se tudo der errado na oficina hoje, é porque era pra dar... menos o aniversário do(a) {apelido}! Comemora!" — FlickBot',
-    '"O próximo que falar que o aniversário do(a) {apelido} é plug-and-play vai levar um tapa! Hoje o dia é todo seu!" — FlickBot',
-    '"Tá tudo dando errado mas tudo bem, hoje tem aniversário do(a) {apelido} (e esperamos que tenha pizza)!" — FlickBot',
-    '"Codar com a mente, debugar com o coração e comemorar o aniversário do(a) {apelido} na oficina sem moderação!" — FlickBot',
-    '"Até lá, se tiver que dobrar um main hoop num poste pra comemorar o aniversário do(a) {apelido}, a gente vai dobrar!" — FlickBot',
-    '"A gente não precisa ter tudo na oficina, mas o parabéns do(a) {apelido} tem que ser o melhor!" — FlickBot',
-    '"Quem diria que o fabricante estava certo quando lançou o(a) {apelido} no mundo! Mais um ano de garantia renovado!" — FlickBot',
-    '"Não tem como fazer engenharia e esquecer o aniversário do(a) {apelido}! Parabéns, lenda!" — FlickBot',
-    '"Aura não se explica, se sente — e hoje a aura do formigueiro tá todinha no aniversário do(a) {apelido}!" — FlickBot',
-    '"Na de você não querer se meter, você já fez mais um ano de vida na E-Racing! Parabéns, {apelido}!" — FlickBot',
-    '"Eu surto mas logo me volto, ainda mais pra dar feliz aniversário pro(a) {apelido} às 6h30 da manhã!" — FlickBot',
-    '"Tem gente que quer bolo e não tá sabendo pedir! Feliz aniversário, {apelido}!" — FlickBot',
-    '"Se ontem você dormiu igual um bebê, cagado e chorando, hoje é dia de acordar pra comemorar! Parabéns, {apelido}!" — FlickBot',
-    '"Se a divisão de business tudo produz, o aniversário de hoje a ela tudo pertence! Parabéns, {apelido}!" — FlickBot',
-    '"Pra quem não sabe nada, metade é o dobro, mas a sua idade hoje é inteira! Feliz aniversário, {apelido}!" — FlickBot',
-    '"Seu sobrenome pode ser perigo, mas hoje o perigo é ficar sem bolo na oficina! Parabéns, {apelido}!" — FlickBot',
-    '"Eita como envelhece! Digo... eita como trabalha! Feliz aniversário, {apelido}, aproveita o seu dia!" — FlickBot',
-    '"A frase que DevOps carrega é ERRRRRRRR, mas o seu aniversário rodou liso e sem bugs hoje! Parabéns, {apelido}!" — FlickBot',
-    '"Todo mecânico médio precisa de uma loirinha de aero, mas hoje você só precisa de parabéns! Feliz aniversário, {apelido}!" — FlickBot',
-    '"Seu plano de estudos deu errado e seu plano agora é fanar? Pelo menos hoje tem o seu aniversário pra salvar o dia! Parabéns, {apelido}!" — FlickBot',
-    '"O homem nasce bom, mas o projeto o corrompe... Sorte que hoje é seu aniversário pra dar uma purificada! Parabéns, {apelido}!" — FlickBot',
-    '"Sem você a equipe ficaria imbotável! Muito sucesso e feliz aniversário, {apelido}!" — FlickBot',
-    '"Se fosse pra só dar parabéns eu contratava um papagaio, mas o FlickBot faz questão! Feliz aniversário, {apelido}!" — FlickBot',
-    '"Lanterna no lixão não é estrela, mas hoje você é a estrela do formigueiro! Parabéns, {apelido}!" — FlickBot',
-    '"Seja Sigma de Eletrônica, Alpha de Powertrain ou Beta de Controle, hoje todo mundo é fã do(a) {apelido}! Parabéns!" — FlickBot',
-    '"A Jetson pode até cair, mas o seu pique pro aniversário de hoje não cai nunca! Feliz vida, {apelido}!" — FlickBot',
-    '"Precisa de siso pra fazer chassi? Não sei, mas precisa de fôlego pra assoprar a velinha hoje! Parabéns, {apelido}!" — FlickBot',
-    '"Se você entrou na academia pra ser menos cabeçudo, hoje pode meter o pé na jaca sem culpa porque é seu dia! Parabéns, {apelido}!" — FlickBot',
-    '"Vou acender um incenso na oficina pra limpar as energias e atrair muita sorte pro seu novo ano de vida! Parabéns, {apelido}!" — FlickBot',
-    '"Você diz que veio pro abate, mas hoje o único abate vai ser o do seu bolo de aniversário! Parabéns, {apelido}!" — FlickBot',
-    '"Não tem cabelo, logo não tem opinião? Brincadeira, hoje a única opinião que importa é a sua! Feliz aniversário, {apelido}!" — FlickBot',
-    '"Pelo preço certo o FlickBot faz qualquer coisa, mas te dar feliz aniversário é 100% de graça! Parabéns, {apelido}!" — FlickBot',
-    '"Qual a diferença da oficina pra Costa Amalfitana hoje? Nenhuma, o glamour é o mesmo no aniversário do(a) {apelido}! Parabéns!" — FlickBot',
-    '"De carona te deixaram só na matéria e ficou sem pai nem parente... Mas no seu aniversário a equipe toda tá aqui, {apelido}!" — FlickBot',
-    '"Vamo querê! Vamo virar membro e vamo comer bolo! Parabéns por mais um ano de vida, {apelido}!" — FlickBot'
+    '"Confesso que essa solda ficou duvidosa, mas o seu aniversário ficou 10/10! Parabéns, {apelido}!" — FlickBot, 2026',
+    '"Não sou o Lucas, mas estou no meio do formigueiro só pra te dar parabéns, {apelido}!" — FlickBot',
+    '"A gente tem quase a mesma porcentagem de água que uma melancia. O que muda é que hoje o(a) {apelido} tem bolo e ansiedade!" — FlickBot',
+    '"Se tudo der errado na oficina hoje, é porque era pra dar... menos o aniversário do(a) {apelido}! Comemora!" — FlickBot',
+    '"O próximo que falar que o aniversário do(a) {apelido} é plug-and-play vai levar um tapa! Hoje o dia é todo seu!" — FlickBot',
+    '"Tá tudo dando errado mas tudo bem, hoje tem aniversário do(a) {apelido} (e esperamos que tenha pizza)!" — FlickBot',
+    '"Codar com a mente, debugar com o coração e comemorar o aniversário do(a) {apelido} na oficina sem moderação!" — FlickBot',
+    '"Até lá, se tiver que dobrar um main hoop num poste pra comemorar o aniversário do(a) {apelido}, a gente vai dobrar!" — FlickBot',
+    '"A gente não precisa ter tudo na oficina, mas o parabéns do(a) {apelido} tem que ser o melhor!" — FlickBot',
+    '"Quem diria que o fabricante estava certo quando lançou o(a) {apelido} no mundo! Mais um ano de garantia renovado!" — FlickBot',
+    '"Não tem como fazer engenharia e esquecer o aniversário do(a) {apelido}! Parabéns, lenda!" — FlickBot',
+    '"Aura não se explica, se sente — e hoje a aura do formigueiro tá todinha no aniversário do(a) {apelido}!" — FlickBot',
+    '"Na de você não querer se meter, você já fez mais um ano de vida na E-Racing! Parabéns, {apelido}!" — FlickBot',
+    '"Eu surto mas logo me volto, ainda mais pra dar feliz aniversário pro(a) {apelido} às 6h30 da manhã!" — FlickBot',
+    '"Tem gente que quer bolo e não tá sabendo pedir! Feliz aniversário, {apelido}!" — FlickBot',
+    '"Se ontem você dormiu igual um bebê, cagado e chorando, hoje é dia de acordar pra comemorar! Parabéns, {apelido}!" — FlickBot',
+    '"Se a divisão de business tudo produz, o aniversário de hoje a ela tudo pertence! Parabéns, {apelido}!" — FlickBot',
+    '"Pra quem não sabe nada, metade é o dobro, mas a sua idade hoje é inteira! Feliz aniversário, {apelido}!" — FlickBot',
+    '"Seu sobrenome pode ser perigo, mas hoje o perigo é ficar sem bolo na oficina! Parabéns, {apelido}!" — FlickBot',
+    '"Eita como envelhece! Digo... eita como trabalha! Feliz aniversário, {apelido}, aproveita o seu dia!" — FlickBot',
+    '"A frase que DevOps carrega é ERRRRRRRR, mas o seu aniversário rodou liso e sem bugs hoje! Parabéns, {apelido}!" — FlickBot',
+    '"Todo mecânico médio precisa de uma loirinha de aero, mas hoje você só precisa de parabéns! Feliz aniversário, {apelido}!" — FlickBot',
+    '"Seu plano de estudos deu errado e seu plano agora é fanar? Pelo menos hoje tem o seu aniversário pra salvar o dia! Parabéns, {apelido}!" — FlickBot',
+    '"O homem nasce bom, mas o projeto o corrompe... Sorte que hoje é seu aniversário pra dar uma purificada! Parabéns, {apelido}!" — FlickBot',
+    '"Sem você a equipe ficaria imbotável! Muito sucesso e feliz aniversário, {apelido}!" — FlickBot',
+    '"Se fosse pra só dar parabéns eu contratava um papagaio, mas o FlickBot faz questão! Feliz aniversário, {apelido}!" — FlickBot',
+    '"Lanterna no lixão não é estrela, mas hoje você é a estrela do formigueiro! Parabéns, {apelido}!" — FlickBot',
+    '"Seja Sigma de Eletrônica, Alpha de Powertrain ou Beta de Controle, hoje todo mundo é fã do(a) {apelido}! Parabéns!" — FlickBot',
+    '"A Jetson pode até cair, mas o seu pique pro aniversário de hoje não cai nunca! Feliz vida, {apelido}!" — FlickBot',
+    '"Precisa de siso pra fazer chassi? Não sei, mas precisa de fôlego pra assoprar a velinha hoje! Parabéns, {apelido}!" — FlickBot',
+    '"Se você entrou na academia pra ser menos cabeçudo, hoje pode meter o pé na jaca sem culpa porque é seu dia! Parabéns, {apelido}!" — FlickBot',
+    '"Vou acender um incenso na oficina pra limpar as energias e atrair muita sorte pro seu novo ano de vida! Parabéns, {apelido}!" — FlickBot',
+    '"Você diz que veio pro abate, mas hoje o único abate vai ser o do seu bolo de aniversário! Parabéns, {apelido}!" — FlickBot',
+    '"Não tem cabelo, logo não tem opinião? Brincadeira, hoje a única opinião que importa é a sua! Feliz aniversário, {apelido}!" — FlickBot',
+    '"Pelo preço certo o FlickBot faz qualquer coisa, mas te dar feliz aniversário é 100% de graça! Parabéns, {apelido}!" — FlickBot',
+    '"Qual a diferença da oficina pra Costa Amalfitana hoje? Nenhuma, o glamour é o mesmo no aniversário do(a) {apelido}! Parabéns!" — FlickBot',
+    '"De carona te deixaram só na matéria e ficou sem pai nem parente... Mas no seu aniversário a equipe toda tá aqui, {apelido}!" — FlickBot',
+    '"Vamo querê! Vamo virar membro e vamo comer bolo! Parabéns por mais um ano de vida, {apelido}!" — FlickBot'
 ]
 
 
@@ -185,194 +186,198 @@ FRASES_FLICKBOT_OFICINA = [
 # FUNÇÕES DE ENVIO PARA O MICROSOFT TEAMS (ADAPTIVE CARDS)
 # ==============================================================================
 def enviar_card_teams(blocos_body):
-    """Envia um Adaptive Card formatado para a URL de Webhook/Workflows do Teams."""
-    payload = {
-        "type": "message",
-        "attachments": [
-            {
-                "contentType": "application/vnd.microsoft.card.adaptive",
-                "contentUrl": None,
-                "content": {
-                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-                    "type": "AdaptiveCard",
-                    "version": "1.4",
-                    "body": blocos_body
-                }
-            }
-        ]
-    }
-    response = requests.post(WEBHOOK_URL, json=payload, timeout=15)
-    response.raise_for_status()
+    """Envia um Adaptive Card formatado para a URL de Webhook/Workflows do Teams."""
+    payload = {
+        "type": "message",
+        "attachments": [
+            {
+                "contentType": "application/vnd.microsoft.card.adaptive",
+                "contentUrl": None,
+                "content": {
+                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                    "type": "AdaptiveCard",
+                    "version": "1.4",
+                    "body": blocos_body
+                }
+            }
+        ]
+    }
+    response = requests.post(WEBHOOK_URL, json=payload, timeout=15)
+    response.raise_for_status()
 
 
 def enviar_texto_simples(texto):
-    """Envia um balão de mensagem de texto no chat do Teams."""
-    blocos = [
-        {
-            "type": "TextBlock",
-            "text": texto,
-            "wrap": True,
-            "size": "Medium"
-        }
-    ]
-    enviar_card_teams(blocos)
+    """Envia um balão de mensagem de texto no chat do Teams."""
+    blocos = [
+        {
+            "type": "TextBlock",
+            "text": texto,
+            "wrap": True,
+            "size": "Medium"
+        }
+    ]
+    enviar_card_teams(blocos)
 
 
 def enviar_card_aniversariante(membro):
-    """Envia o card completo do aniversariante com Foto, Nome, Apelido e Frase do FlickBot."""
-    frase_sorteada = random.choice(FRASES_FLICKBOT_OFICINA).format(
-        apelido=membro["apelido"],
-        nome=membro["nome"]
-    )
-    
-    # Se não tiver URL de foto cadastrada ainda, gera avatar elegante com as iniciais
-    apelido_url = requests.utils.quote(membro["apelido"])
-    foto_url = membro["foto"] if membro["foto"] else f"https://ui-avatars.com/api/?name={apelido_url}&background=D32F2F&color=fff&size=256&bold=true"
+    """Envia o card completo do aniversariante com Foto, Nome, Apelido e Frase do FlickBot."""
+    frase_sorteada = random.choice(FRASES_FLICKBOT_OFICINA).format(
+        apelido=membro["apelido"],
+        nome=membro["nome"]
+    )
+    
+    # Se não tiver URL de foto cadastrada ainda, gera avatar elegante com as iniciais
+    apelido_url = requests.utils.quote(membro["apelido"])
+    foto_url = membro["foto"] if membro["foto"] else f"https://ui-avatars.com/api/?name={apelido_url}&background=D32F2F&color=fff&size=256&bold=true"
 
-    blocos = [
-        {
-            "type": "TextBlock",
-            "text": f"🎂 FELIZ ANIVERSÁRIO, {membro['apelido'].upper()}! 🎉",
-            "weight": "Bolder",
-            "size": "Large",
-            "color": "Attention",
-            "wrap": True
-        },
-        {
-            "type": "ColumnSet",
-            "columns": [
-                {
-                    "type": "Column",
-                    "width": "auto",
-                    "items": [
-                        {
-                            "type": "Image",
-                            "url": foto_url,
-                            "size": "ExtraLarge",
-                            "style": "Person",
-                            "horizontalAlignment": "Center"
-                        }
-                    ]
-                },
-                {
-                    "type": "Column",
-                    "width": "stretch",
-                    "verticalContentAlignment": "Center",
-                    "items": [
-                        {
-                            "type": "FactSet",
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "type": "Container",
-            "style": "emphasis",
-            "bleed": True,
-            "items": [
-                {
-                    "type": "TextBlock",
-                    "text": "💬 **Pérola de Aniversário do FlickBot:**",
-                    "weight": "Bolder",
-                    "size": "Small",
-                    "wrap": True
-                },
-                {
-                    "type": "TextBlock",
-                    "text": f"*{frase_sorteada}*",
-                    "wrap": True,
-                    "isSubtle": True
-                }
-            ]
-        },
-        {
-            "type": "TextBlock",
-            "text": f"Mandem os parabéns aqui no chat para o(a) **{membro['apelido']}**! 🐜🏎️⚡",
-            "wrap": True,
-            "weight": "Bolder"
-        },
-        # ==============================================================================
-        # NOVA ADIÇÃO: Assinatura do Flickboss com LinkedIn
-        # ==============================================================================
-        {
-            "type": "TextBlock",
-            "text": "Um dos meus principais criadores, [Flickboss](https://www.linkedin.com/in/gideone-carvalho-dos-santos-68479025b/) te deseja parabéns e felicidades sempre! 🚀",
-            "wrap": True,
-            "size": "Small",
-            "isSubtle": True,
-            "spacing": "Medium"
-        }
-    ]
-    enviar_card_teams(blocos)
+    blocos = [
+        {
+            "type": "TextBlock",
+            "text": f"🎂 FELIZ ANIVERSÁRIO, {membro['apelido'].upper()}! 🎉",
+            "weight": "Bolder",
+            "size": "Large",
+            "color": "Attention",
+            "horizontalAlignment": "Center",
+            "wrap": True
+        },
+        {
+            "type": "Image",
+            "url": foto_url,
+            "size": "ExtraLarge",
+            "style": "Person",
+            "horizontalAlignment": "Center"
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+                {"title": "Nome Completo:", "value": membro["nome"]},
+                {"title": "Apelido:", "value": membro["apelido"]},
+                {"title": "Data:", "value": membro["data"]}
+            ],
+            "spacing": "Medium"
+        },
+        {
+            "type": "Container",
+            "style": "emphasis",
+            "bleed": True,
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "text": "💬 **Pérola de Aniversário do FlickBot:**",
+                    "weight": "Bolder",
+                    "size": "Small",
+                    "wrap": True
+                },
+                {
+                    "type": "TextBlock",
+                    "text": f"*{frase_sorteada}*",
+                    "wrap": True,
+                    "isSubtle": True
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": f"Mandem os parabéns aqui no chat para o(a) **{membro['apelido']}**! 🐜🏎️⚡",
+            "wrap": True,
+            "weight": "Bolder"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Um dos meus principais criadores, [Flickboss](https://www.linkedin.com/in/gideone-carvalho-dos-santos-68479025b/) te deseja parabéns e felicidades sempre! 🚀",
+            "wrap": True,
+            "size": "Small",
+            "isSubtle": True,
+            "spacing": "Medium"
+        }
+    ]
+    enviar_card_teams(blocos)
+
+
+# ==============================================================================
+# FUNÇÃO DE TESTE DE CARGA (DISPARA TODOS OS 66 CARDS)
+# ==============================================================================
+def testar_todas_as_fotos():
+    enviar_texto_simples("🤖 Flickbot: Iniciando teste de carga de fotos. Preparando para enviar 66 cards...")
+    time.sleep(2)
+    
+    sucessos = 0
+    falhas = 0
+    
+    for i, membro in enumerate(MEMBROS, start=1):
+        try:
+            print(f"[{i}/{len(MEMBROS)}] Enviando card de {membro['apelido']}...")
+            enviar_card_aniversariante(membro)
+            sucessos += 1
+            # Pausa de 1.5s para evitar bloqueio por spam do Microsoft Teams
+            time.sleep(1.5)
+        except Exception as e:
+            print(f"Erro ao enviar {membro['apelido']}: {e}")
+            falhas += 1
+            
+    resumo = f"✅ Teste concluído! {sucessos} cards enviados com sucesso. {falhas} falharam."
+    enviar_texto_simples(resumo)
+    print(resumo)
 
 
 # ==============================================================================
 # LÓGICA PRINCIPAL DE EXECUÇÃO ÀS 06H30
 # ==============================================================================
 def executar_flickbot():
-    fuso_br = ZoneInfo("America/Sao_Paulo")
-    hoje = datetime.now(fuso_br)
-    amanha = hoje + timedelta(days=1)
+    fuso_br = ZoneInfo("America/Sao_Paulo")
+    hoje = datetime.now(fuso_br)
+    amanha = hoje + timedelta(days=1)
 
-    str_hoje = hoje.strftime("%d/%m")
-    str_amanha = amanha.strftime("%d/%m")
+    str_hoje = hoje.strftime("%d/%m")
+    str_amanha = amanha.strftime("%d/%m")
 
-    aniversariantes_hoje = [m for m in MEMBROS if m["data"] == str_hoje]
-    aniversariantes_amanha = [m for m in MEMBROS if m["data"] == str_amanha]
+    aniversariantes_hoje = [m for m in MEMBROS if m["data"] == str_hoje]
+    aniversariantes_amanha = [m for m in MEMBROS if m["data"] == str_amanha]
 
-    # Busca também aniversariantes em datas muito próximas (daqui a 2 ou 3 dias)
-    proximos_dias = []
-    for delta in (2, 3):
-        data_futura = (hoje + timedelta(days=delta)).strftime("%d/%m")
-        for m in MEMBROS:
-            if m["data"] == data_futura:
-                proximos_dias.append((m, delta))
+    proximos_dias = []
+    for delta in (2, 3):
+        data_futura = (hoje + timedelta(days=delta)).strftime("%d/%m")
+        for m in MEMBROS:
+            if m["data"] == data_futura:
+                proximos_dias.append((m, delta))
 
-    # 1. SEQUÊNCIA DE ANIVERSARIANTES DO DIA
-    if aniversariantes_hoje:
-        # Mensagem 1: Bom dia formiguinhas (Introdução)
-        enviar_texto_simples(random.choice(INTRODUCOES_DIA))
-        time.sleep(3)
+    if aniversariantes_hoje:
+        enviar_texto_simples(random.choice(INTRODUCOES_DIA))
+        time.sleep(3)
+        if len(aniversariantes_hoje) == 1:
+            enviar_texto_simples(random.choice(MENSAGENS_SUSPENSE_SINGULAR))
+        else:
+            enviar_texto_simples(random.choice(MENSAGENS_SUSPENSE_PLURAL))
+        time.sleep(3)
 
-        # Mensagem 2: Suspense (adapta singular ou plural)
-        if len(aniversariantes_hoje) == 1:
-            enviar_texto_simples(random.choice(MENSAGENS_SUSPENSE_SINGULAR))
-        else:
-            enviar_texto_simples(random.choice(MENSAGENS_SUSPENSE_PLURAL))
-        time.sleep(3)
+        for membro in aniversariantes_hoje:
+            enviar_card_aniversariante(membro)
+            time.sleep(3)
 
-        # Mensagem 3+: Card individual para cada aniversariante do dia
-        for membro in aniversariantes_hoje:
-            enviar_card_aniversariante(membro)
-            time.sleep(3)
+    if aniversariantes_amanha:
+        if not aniversariantes_hoje:
+            enviar_texto_simples(
+                "🐜 **Bom dia, formiguinhas!** Passando às 06h30 com o radar do **FlickBot** ligado!"
+            )
+            time.sleep(3)
 
-    # 2. AVISO DE 1 DIA ANTES (VÉSPERA)
-    if aniversariantes_amanha:
-        if not aniversariantes_hoje:
-            enviar_texto_simples(
-                "🐜 **Bom dia, formiguinhas!** Passando às 06h30 com o radar do **FlickBot** ligado!"
-            )
-            time.sleep(3)
+        nomes_amanha = ", ".join(
+            [f"**{m['nome']} ({m['apelido']})**" for m in aniversariantes_amanha]
+        )
+        enviar_texto_simples(
+            f"🚨 **ALERTA DE VÉSPERA DO FLICKBOT:** Amanhã ({str_amanha}) é dia de aniversário na equipe! "
+            f"Já preparem os parabéns (e o bolo na oficina) para: {nomes_amanha}! 🎈👀"
+        )
+        time.sleep(2)
 
-        nomes_amanha = ", ".join(
-            [f"**{m['nome']} ({m['apelido']})**" for m in aniversariantes_amanha]
-        )
-        enviar_texto_simples(
-            f"🚨 **ALERTA DE VÉSPERA DO FLICKBOT:** Amanhã ({str_amanha}) é dia de aniversário na equipe! "
-            f"Já preparem os parabéns (e o bolo na oficina) para: {nomes_amanha}! 🎈👀"
-        )
-        time.sleep(2)
-
-    # 3. RADAR DE DATAS PRÓXIMAS (QUANDO HÁ ANIVERSÁRIO HOJE OU AMANHÃ E OUTROS COLADOS)
-    if (aniversariantes_hoje or aniversariantes_amanha) and proximos_dias:
-        lista_prox = ", ".join(
-            [f"**{m['apelido']}** ({m['data']} - daqui a {d} dias)" for m, d in proximos_dias]
-        )
-        enviar_texto_simples(
-            f"📅 **Combo de Aniversários da Semana:** Fiquem ligados que logo na sequência também temos: {lista_prox}!"
-        )
-
+    if (aniversariantes_hoje or aniversariantes_amanha) and proximos_dias:
+        lista_prox = ", ".join(
+            [f"**{m['apelido']}** ({m['data']} - daqui a {d} dias)" for m, d in proximos_dias]
+        )
+        enviar_texto_simples(
+            f"📅 **Combo de Aniversários da Semana:** Fiquem ligados que logo na sequência também temos: {lista_prox}!"
+        )
 
 if __name__ == "__main__":
-    executar_flickbot()
+    # Para rodar o teste com todas as 66 fotos, acione a função de teste em vez da principal
+    testar_todas_as_fotos()
