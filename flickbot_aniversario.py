@@ -249,11 +249,6 @@ def enviar_card_aniversariante(membro):
         },
         {
             "type": "FactSet",
-            "facts": [
-                {"title": "Nome Completo:", "value": membro["nome"]},
-                {"title": "Apelido:", "value": membro["apelido"]},
-                {"title": "Data:", "value": membro["data"]}
-            ],
             "spacing": "Medium"
         },
         {
