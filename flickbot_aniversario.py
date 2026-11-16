@@ -374,5 +374,40 @@ def executar_flickbot():
         )
 
 
+# ==============================================================================
+# FUNÇÃO DE TESTE GERAL (DISPARA TODOS OS 66 CARDS)
+# ==============================================================================
+def testar_todas_as_fotos():
+    enviar_texto_simples("🚨 **INICIANDO TESTE DE STRESS DO FLICKBOT** 🚨\n\nEnviando cards de todos os 66 membros para verificar links de fotos quebrados...")
+    time.sleep(2)
+    
+    erros = []
+    
+    for i, membro in enumerate(MEMBROS, 1):
+        print(f"[{i}/66] Testando envio para: {membro['nome']}")
+        try:
+            enviar_card_aniversariante(membro)
+            # Pausa de 1.5 segundos entre cada envio para evitar bloqueio "Rate Limit 429" do Teams
+            time.sleep(1.5)
+        except Exception as e:
+            print(f"❌ ERRO ao enviar card de {membro['nome']}: {e}")
+            erros.append(membro['nome'])
+            
+    if erros:
+        msg_erro = "⚠️ **TESTE FINALIZADO COM ERROS** ⚠️\n\nOs seguintes membros falharam no envio (verifique as URLs das fotos):\n- " + "\n- ".join(erros)
+        enviar_texto_simples(msg_erro)
+        print("\nTeste concluído com falhas.")
+    else:
+        enviar_texto_simples("✅ **TESTE FINALIZADO COM SUCESSO** ✅\n\nTodos os 66 cards foram processados pelo Teams!")
+        print("\nTeste concluído com sucesso total.")
+
+# ==============================================================================
+# EXECUÇÃO DO SCRIPT
+# ==============================================================================
 if __name__ == "__main__":
+    # COMENTE A LINHA ABAIXO quando for colocar em produção oficial
+    testar_todas_as_fotos()
+    
+    # DESCOMENTE A LINHA ABAIXO para voltar ao funcionamento normal diário de aniversários
+    # executar_flickbot()
     executar_flickbot()
